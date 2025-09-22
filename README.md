@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @LaperCode
 - 👀 I’m interested in English
 - 🌱 I’m currently learning IT in SaiGon University
-- 💞️ I’m looking to collaborate on technology
+- 💞️ I’m looking forward to making games
 - 📫 How to reach me: Facebook
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+- 😄 Pronouns: None
+- ⚡ Fun fact: none
 
 <!---
 LaperCode/LaperCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
