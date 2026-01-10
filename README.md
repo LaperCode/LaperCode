@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @LaperCode
 - 👀 I’m interested in English
 - 🌱 I’m currently learning IT in SaiGon University
-- 💞️ I’m looking forward to making games
+- 💞️ I’m looking forward to making apps or games...
 - 📫 How to reach me: Facebook
-- 😄 Pronouns: None
+- 😄 Pronouns: He
 - ⚡ Fun fact: none
 
 <!---
