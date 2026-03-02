@@ -32,9 +32,5 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LaperCode&theme=tokyonight&hide_border=true" alt="LaperCode's GitHub stats" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=LaperCode&theme=tokyonight&hide_border=true" alt="LaperCode's GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaperCode&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaperCode&theme=tokyonight&hide_border=true" alt="LaperCode's GitHub Streak" />
 </p>
