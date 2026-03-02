@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning IT in SaiGon University
 - 💞️ I’m looking forward to making apps or games...
 - 📫 How to reach me: Facebook
-- 😄 Pronouns: He
-- ⚡ Fun fact: none
+- 😄 Pronouns: He/Him
 
 <!---
 LaperCode/LaperCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
