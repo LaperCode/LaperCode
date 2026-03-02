@@ -19,6 +19,7 @@
 ### 🛠️ Tech Stack & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <br>
@@ -31,8 +32,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaperCode&theme=tokyonight&hide_border=true&include_all_commits=true" alt="LaperCode's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaperCode&theme=tokyonight&hide_border=true" alt="LaperCode's GitHub Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LaperCode&theme=tokyonight&hide_border=true" alt="LaperCode's GitHub stats" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=LaperCode&theme=tokyonight&hide_border=true" alt="LaperCode's GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaperCode&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
