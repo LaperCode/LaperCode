@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nguyễn Hoàng Lập (LaperCode) 👋</h1>
-<h3 align="center">IT Student at SaiGon University | Passionate about Software & Web Development</h3>
+<h3 align="center">IT Student at SaiGon University | Passionate about Mobile & Games Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LaperCode&label=Profile%20views&color=0e75b6&style=flat" alt="LaperCode" />
