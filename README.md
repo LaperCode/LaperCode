@@ -11,7 +11,7 @@
 - 🔭 I’m currently learning **Android Development** and **Game Development** at SaiGon University.
 - 👀 I’m highly interested in improving my **English** skills.
 - 💞️ I’m looking forward to building amazing apps and games.
-- 📫 How to reach me: [Facebook](#) | [TikTok](#)
+- 📫 How to reach me: [Facebook](https://www.facebook.com/lapp.nguyen.37) | [LinkedIn](https://www.linkedin.com/in/l%E1%BA%ADp-nguy%E1%BB%85n-ho%C3%A0ng-4518763b7/)
 - 😄 Pronouns: He/Him
 
 ---
