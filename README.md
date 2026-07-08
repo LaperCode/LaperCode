@@ -8,9 +8,8 @@
 ---
 
 ### About Me
-- 🔭 I’m currently building full-stack applications and exploring Game Development.
-- 🌱 I’m diving deep into Java (Spring Boot), React, and Computer Vision (YOLO).
-- 👀 I’m highly interested in improving my English skills.
+- 🔭 I’m sometimes learning **Android Development** and **Game Development**.
+- 👀 I’m highly interested in improving my **English** skills.
 - 💞️ I’m looking forward to building amazing apps, scalable systems, and games.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/lapp.nguyen.37) | [LinkedIn](https://www.linkedin.com/in/l%E1%BA%ADp-nguy%E1%BB%85n-ho%C3%A0ng-4518763b7/)
 - 😄 Pronouns: He/Him
@@ -47,8 +46,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=LaperCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="LaperCode's GitHub Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaperCode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LaperCode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="LaperCode's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaperCode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
