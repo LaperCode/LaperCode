@@ -47,5 +47,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaperCode&theme=tokyonight&hide_border=true" alt="LaperCode's GitHub Streak" />
-</p>🔭 I’m sometimes learning **Android Development** and **Game Development**.
-- 👀 I’m highly interested in improving my **English** skills.
+</p>
