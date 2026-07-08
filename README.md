@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nguyễn Hoàng Lập (LaperCode)</h1>
+<h1 align="center">Hi there, I'm Lập (LaperCode)</h1>
 <h3 align="center">IT Student at SaiGon University | Passionate about Software Engineering & Game Development</h3>
 
 <p align="center">
@@ -46,10 +46,6 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaperCode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="LaperCode's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaperCode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaperCode&theme=tokyonight&hide_border=true" alt="LaperCode's GitHub Streak" />
-</p>
+</p>🔭 I’m sometimes learning **Android Development** and **Game Development**.
+- 👀 I’m highly interested in improving my **English** skills.
